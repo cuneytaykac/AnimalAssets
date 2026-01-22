@@ -1,0 +1,14 @@
+[
+    {
+        "id": "3f8c2b1e-9a24-4f8b-b1b5-8e4c2d91a7f3",
+        "name": "Panda",
+        "imagePath": "https://raw.githubusercontent.com/cuneytaykac/AnimalAssets/main/images/animals/panda.webp",
+        "audioPath": "https://raw.githubusercontent.com/cuneytaykac/AnimalAssets/main/audio/animals/panda.mp3"
+    },
+    {
+        "id": "9b7a1e24-6d3f-4f2a-8e91-2dcb0e5a6c42",
+        "name": "Kanguru",
+        "imagePath": "https://raw.githubusercontent.com/cuneytaykac/AnimalAssets/main/images/animals/kangaroo.webp",
+        "audioPath": "https://raw.githubusercontent.com/cuneytaykac/AnimalAssets/main/audio/animals/kangaroo.mp3"
+    }
+]
